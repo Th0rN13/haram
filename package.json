@@ -1,0 +1,17 @@
+{
+  "name": "haram",
+  "version": "0.0.1",
+  "description": "Haram bugs",
+  "main": "index.js",
+  "bin": {
+    "myd": "./bin/myd.js"
+  },
+  "scripts": {},
+  "author": "Th0rN13",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Th0rN13/haram.git"
+  },
+  "preferGlobal": true,
+  "license": "MIT",
+}
