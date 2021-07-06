@@ -1,6 +1,6 @@
 {
   "name": "haram",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Haram bugs",
   "main": "index.js",
   "bin": {
@@ -13,5 +13,5 @@
     "url": "https://github.com/Th0rN13/haram.git"
   },
   "preferGlobal": true,
-  "license": "MIT",
+  "license": "MIT"
 }
